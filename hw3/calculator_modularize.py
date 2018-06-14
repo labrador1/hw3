@@ -141,7 +141,3 @@ while True:
     tokens = evaluate2(tokens2)
     answer = evaluate(tokens)
     print "answer = %f\n" % answer
-
-
-
-
